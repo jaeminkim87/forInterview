@@ -35,9 +35,6 @@ class MergeSorting {
         let mid;
         if (left < right) {
             mid = Math.floor((left + right) / 2);
-            console.log(`left : ${left}`);
-            console.log(`mid : ${mid}`);
-            console.log(`right : ${right}`);
             this.divide(arr, left, mid);
             this.divide(arr, mid + 1, right);
             this.merge(arr, left, mid, right);
