@@ -31,3 +31,7 @@ For interview
 * Redux
 
 * TypeScript
+
+**참고**
+* [https://gmlwjd9405.github.io/tags#algorithm](https://gmlwjd9405.github.io/tags#algorithm)
+* Data Structures & Algorithms with JavaScript
