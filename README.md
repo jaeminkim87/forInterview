@@ -1,4 +1,3 @@
-# forInterview
 For interview
 ---------------------
 
@@ -11,6 +10,12 @@ For interview
         5. Heap Sorting
         6. Quick Sorting
         7. Topological Sorting
+        
+    * List
+        1. Linked list
+        2. Double linked list
+        3. Stack
+        4. Queue
 
     * Graph & Tree
         1. DFS
@@ -21,6 +26,8 @@ For interview
         6. Kruskal
         7. Prim
         8. Union-Find
+        9. B-tree
+        10. B+-tree
         
 * Javascript
 
